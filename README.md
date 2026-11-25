@@ -9,6 +9,8 @@ I'm a full-stack developer from Malaysia, studying at **42 Kuala Lumpur**. I lea
 
 ### Web
 
+- **[VOLLEY.EXE](https://github.com/imsolucas/ft_transcendence)** · [live](https://volley.lucasdyj.dev)<br>
+  Retro arcade Pong in the browser: online 1v1, bracket tournaments, friends and chat, and an AI coach. Started as our 42 final project (ft_transcendence), then rebuilt as a personal project.
 - **[F1 Insight Hub](https://github.com/imsolucas/f1_insights_hub)** · [live](https://f1-insights-hub-frontend.vercel.app)<br>
   Formula 1 race data, statistics and predictions. Next.js and Express monorepo with Prisma, PostgreSQL and a Python ML service.
 - **[Malaysia Loan Calculator](https://github.com/imsolucas/malaysia-loan-calculator)** · [live](https://malaysia-loan-calculator.vercel.app)<br>
