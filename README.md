@@ -15,7 +15,7 @@ I'm a full-stack developer from Malaysia, studying at **42 Kuala Lumpur**. I lea
   A catering booking site, a no-account food ordering storefront with capped batch windows, and one shared admin for both kitchens. Next.js, NestJS, Prisma and PostgreSQL.
 - **[Receipt Bill Splitter](https://github.com/lucasDeng-truestack/SplitBill)** · [live](https://split-bill-web-khaki.vercel.app)<br>
   Scan a restaurant receipt, review the items, add who ate what and settle up person by person. Next.js, Express, Prisma and PostgreSQL.
-- **PocketPlan**<br>
+- **[PocketPlan](https://github.com/lucasDeng-truestack/pocketplan)**<br>
   Mobile-first envelope budgeting: split your money into envelopes, log spending and email a report of any period. Next.js, Prisma, Better Auth.
 - **[Malaysia Loan Calculator](https://github.com/imsolucas/malaysia-loan-calculator)** · [live](https://malaysia-loan-calculator.vercel.app)<br>
   What a loan would have cost in Malaysia in any year from 1975 to 2022, using World Bank lending rates. Charts and CSV export.
@@ -24,13 +24,13 @@ I'm a full-stack developer from Malaysia, studying at **42 Kuala Lumpur**. I lea
 
 ### Formula 1
 
-- **Grid Print**<br>
+- **[Grid Print](https://github.com/imsolucas/GridPrint)**<br>
   Turns one real F1 lap into a print-ready A3 poster: stroke colour shows speed, stroke width shows braking, ticks mark gear changes. Local-first, built on OpenF1 data.
-- **Parc Fermé**<br>
+- **[Parc Fermé](https://github.com/imsolucas/parc-ferme)**<br>
   A retro-arcade F1 pick'em league. Call pole, the podium, fastest lap and the first DNF before qualifying. A React PWA on a single Cloudflare Worker.
-- **Box Box!**<br>
+- **[Box Box!](https://github.com/lucasDeng-truestack/F1Manager)**<br>
   A browser game where you are the race engineer: run a 15-lap race by talking to your driver over team radio, with speech recognition running in the browser.
-- **PitWall**<br>
+- **[PitWall](https://github.com/lucasDeng-truestack/f1-multiview)**<br>
   A multiview race-watching tool with live timing, a track map and telemetry.
 - **[F1 Insight Hub](https://github.com/imsolucas/f1_insights_hub)** · [live](https://f1-insights-hub-frontend.vercel.app)<br>
   Formula 1 race data, statistics and predictions. Next.js and Express monorepo with Prisma, PostgreSQL and a Python ML service.
