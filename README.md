@@ -31,6 +31,6 @@ I'm a full-stack developer from Malaysia, studying at **42 Kuala Lumpur**. I lea
 
 ### Find me
 
-[Portfolio](https://imsolucas-portfolio.vercel.app/) · [LinkedIn](https://linkedin.com/in/deng-yi-jin-024945271) · [Email](mailto:denglucasyijin@gmail.com) · [X](https://twitter.com/lucas00797249) · [Instagram](https://instagram.com/imsol_ucas)
+[Portfolio](https://lucasdyj.dev) · [LinkedIn](https://linkedin.com/in/deng-yi-jin-024945271) · [Email](mailto:denglucasyijin@gmail.com) · [X](https://twitter.com/lucas00797249) · [Instagram](https://instagram.com/imsol_ucas)
 
 <sub>Fun fact: I can drink 10 shots of espresso.</sub>
